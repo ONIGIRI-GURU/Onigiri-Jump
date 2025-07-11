@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  background: linear-gradient(to bottom, #ff6ba4, #4ab0ff);
+  overflow: hidden;
+  font-family: sans-serif;
+}
+
+canvas {
+  display: block;
+  margin: 0 auto;
+  background: linear-gradient(to top, #ff6ba4, #4ab0ff);
+}
+
+.hidden {
+  display: none;
+}
+
+/* Остальные стили из предыдущего ответа можно добавить сюда */
